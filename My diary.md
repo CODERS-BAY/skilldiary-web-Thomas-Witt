@@ -27,3 +27,16 @@ erschaffen, und es hat darin alles genau so funktioniert, wie ich es
 wollte. Ich bin gespannt, wie weit ich heute Abend noch kommen werde, und 
 wie lange ich noch brauchen werde, bis ich mit den anderen Kollegen 
 endlich aufgeschlossen habe. 
+
+Anhang: Es ist 20:25 Uhr. Ich glaube ich habe mich heute genug mit HTML
+beschäftigt. Jetzt mag ich irgendwie nicht mehr. Ich habe noch 
+Schrödingers Kapitel 3 fertig durchgelesen (und natürlich entsprechend 
+geHTMLt). Dann habe ich noch die "Basic-HTML+CSS Kapitel 01"-pdf 
+geöffnet und mich der Aufgabe am Schluss gestellt. Ich habe sie zu meiner
+Zufriedenheit fertiggestellt. Ich habe zwar einiges noch einmal 
+nachgeschlagen, aber an und für sich alles verstanden und geschafft. 
+Dann habe ich mir noch die Aufgaben von pdf-Kapitel 02 durchgelesen. Ich 
+habe zu allem eine gewisse Idee, wie ich das machen werde, aber es wird 
+doch noch einiges an Zeit in Anspruch nehmen. Vielleicht werde ich die
+Übungen, die ich durch den Schrödinger gemacht habe herranziehen und 
+nicht mehrere HTML-Seiten von Grund auf neu schreiben. Mal schaun....
