@@ -40,3 +40,5 @@ habe zu allem eine gewisse Idee, wie ich das machen werde, aber es wird
 doch noch einiges an Zeit in Anspruch nehmen. Vielleicht werde ich die
 Übungen, die ich durch den Schrödinger gemacht habe herranziehen und 
 nicht mehrere HTML-Seiten von Grund auf neu schreiben. Mal schaun....
+
+versuchsanhang
