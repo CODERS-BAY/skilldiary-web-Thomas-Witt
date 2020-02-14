@@ -41,4 +41,20 @@ doch noch einiges an Zeit in Anspruch nehmen. Vielleicht werde ich die
 Übungen, die ich durch den Schrödinger gemacht habe herranziehen und 
 nicht mehrere HTML-Seiten von Grund auf neu schreiben. Mal schaun....
 
-versuchsanhang
+
+
+
+14.02.
+
+Wir haben heute die Tabellen, Formulare und Box-Model usw wiederholt.
+An der Tafel wirkt das alles sehr logisch und nachvollziehbar. Ob das 
+in der Praxis dann auch so ist, wird sich zeigen. Ich werde am Wochenende
+hoffentlich endlich aufschließen, damit ich alles zumindest ein Mal gehört 
+oder gelesen habe. 
+Im unterricht die Folien durchgehen ist ja nett und schön, aber ich möchte
+mir die zugehörigen Kapitel im Schrödinger auch lesen und dann noch selber
+ausprobieren. Das kostet Zeit!
+Da ich jetzt ja schon 2 Mal was über Tabellen gehört habe, hoffe ich, dass
+ich die zugehörigen Schrödinger-Kaptiel nur mehr überfliegen muss und dass
+diese Kaptiel einigermaßen flott zu wiederholen sind. Aber auch hier gilt
+wieder einmal: Mal schaun....
