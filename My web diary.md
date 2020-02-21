@@ -1,3 +1,9 @@
+21.02.
+
+Heute haben wir haupsächlich geübt. Wir haben zwar auch die Farbenlehre durchgemacht, aber das hat nicht lange gedauert. Prinzipiell gut, weil ich mich auf das Kapitel konzentrieren konnte, bei dem ICH gerade bin (f.y.i. Kapitel 7, Seite 269. Nur noch 116 Seiten nachzuholen. Plus die Folien über Farbenleere und Flexboxen. Yippee!!). Außerdem habe ich heute bestätigt bekommen, dass die Synchronisation mittels OneDrive weit nicht so reibungslos funktioniert, wie Dropbox. Deshalb habe ich heute Dropbox von meinem Handy entfernt (weil ich mich mit dem Gratis-Parket nur mit 3 Geräten synchronisieren kann) und mich hier in der Codersbay angemeldet. Somit sollte ich problemlos zu Hause an das anknüpfen können, was ich hier mache und umgekehrt. Das heist bis auf alles, was ich in den Git-Ordnern habe (was aber bei Web nur dieses Diary hier ist). Auf ein produktives Wochenende!
+
+
+
 18.02.
 
 Heute haben wir folgende Folien durchgemacht:
