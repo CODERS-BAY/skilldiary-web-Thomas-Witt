@@ -1,3 +1,7 @@
+28.02.
+
+Heute habe ich mich ausschließlich mit Formularen auf Bootstrap beschäftigt. Da ich heute ganzen Tag etwas mies drauf war (keine Ahnung warum, ich hab eigentlich genug geschlafen... S ned Saufm wiad hoid scho zach!) ist da nicht irrsinnig  viel weiter gegangen. Und die Realisation, dass ich erst mit Kapitel 6 zu meiner Zufriedenheit fertig bin und Bootstrap aber schon Kapitel 12 ist hat auch ein wenig demotiviert. Gut, die restlichen 6 Kapitel habe ich 1 mal gehört und aufgepasst und es is mir nicht mehr ganz fremd, aber trotzdem. Ein Gefühl von "erledigt" oder "fertig" oder "auf dem aktuellen Stand" wäre mal wieder schön.
+
 25.02.
 
 Queries und Bootstrap. Nach minnimalsten Infos in den Folien und einer Einführung in die getbootstrap.com - Webseite haben wir herumprobieren dürfen. Es kommt mier nach wie vor so vor, als wüsste ich schon vieles (das es Dies und Jenes gibt, wie es angewannt wird und so). Aber mich beschleicht das unangenehme Gefühl, dass ich, sobald ich das wirklich in ein html-file einbetten soll, draufkomme, dass alles doch komplizierter ist als angenommen, und ich nur vage weis, wo ich nachschaun und nachlesen kann. Z.B.: das Einbaun von 4 Bildern nebeneinander mit gleichem Abstand ist theoretisch eine Aufgabe auf 15 Minuten. Doch wenn der Hund im Deteil liegt, kann ich mir gut vorstellen, dass es einige Stunden dauert, bis ich es so habe wie ich es mir vorgestellt habe. Es fehtl mir die Zeit zum probieren. 
