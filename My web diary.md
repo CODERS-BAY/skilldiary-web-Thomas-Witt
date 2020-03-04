@@ -1,3 +1,9 @@
+04.03.
+
+Wir haben bei JavaScript weiter gemacht. Leider habe ich immer noch das Gefühl, sooo viel nicht zu wissen. Wenn es an allen Ecken und Enden an den Grundlagen fehlt, ist es sehr schwer sich nach vorne zu arbeiten. Das geht aber nicht nur mir so. Zum Glück habe ich jetzt zum Schluss noch zwei Erfolgserlebisse gehabt (die Zufallszahl und die console.log - Funktion). Daduch habe ich jetzt dass Gefühl, dass es möglich ist, die Spiele zu schreiben und JS zu lernen. Allerdings muss ich noch VIIEEL Zeit investieren. Aber woher nehmen wenn nicht stehlen? 
+Der Schrödinger ist anscheinend was HTML und CSS angeht super, aber bei JavaScript total zu vergessen. Wir sollen uns statt desssen an die Folien im e-bfi halten. Das sind zwar insgesammt nur 31 Seiten und irgendwie kann ich mir nicht vorstellen, danach JS wirklich super zu beherschen, aber OK.
+Außerdem muss ich mich noch näher mit Bootstrap beschäftigen. Es wäre so schön, wenn ich mal eine Seite schreiben könnte, die das macht, was ich will und die so aussieht, dass ich sie als hübsch empfinde. Ich hoffe, das kommt noch mit der Zeit.
+
 03.03.
 
 Heute haben wir mit JavaScript begonnen. Es lässt sich schon erkennen, dass damit sehr viel möglich ist! Allerdings sind die Folien, die wir heute gesehen haben so halbrichtig. Ein Beispiel funktioniert nicht, wenn man es 1:1 abschreibt, bei einem anderen Beispiel wurde mit einer Funktion eine Variable aufgerufen, die dann nur einen String abgespeichert hat (anstelle mit der Funktion gleich den String aufzurufen). Zusätzlich hat die Funktion nicht einmal was ausgeführt. Alex hat gesagt, dass man so etwas nie schreiben würde. Warum ist es dann das (fast) Erste, was wir von JavaScript zu sehen bekommen.
